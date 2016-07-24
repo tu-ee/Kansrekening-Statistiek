@@ -1,0 +1,14 @@
+3.1 Lesson 0 Introduction Probability and Statistics
+3.1 Lesson 1 Probability spaces and conditional probability
+3.1 Lesson 2 Bayes, independence and introduction to discrete random variables
+3.2 Instruction week 1
+3.2 Lesson 1 Frequently used discrete random variables
+3.2 Lesson 2 Continuous random variables
+3.3 Instruction week 2
+3.3 Lesson 1 Expectation and variance
+3.3 Lesson 2 Jensen's inequality and joint distributions
+3.4 Instruction week 3
+3.4 Lesson 1 Covariance, correlation and sums of independent random variables
+3.4 Lesson 2 The Poisson process and Simulation
+3.5 Instruction week 4
+3.5 Lesson 1 Preparation Midterm
